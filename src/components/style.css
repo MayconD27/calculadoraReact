@@ -1,0 +1,18 @@
+.btn{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(40, 42, 40);
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    transition: .5s;
+    font-size: 20px;
+    font-weight: 900;
+}
+.btn:hover{
+    filter: brightness(.9);
+}
